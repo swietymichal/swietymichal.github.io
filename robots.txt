@@ -1,5 +1,5 @@
 User-agent: Swiftbot
-Disallow:
+Allow: /
 Crawl-delay: 10
 
 User-agent: *
