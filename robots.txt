@@ -1,11 +1,10 @@
 User-agent: Swiftbot
 Allow: /
 Crawl-delay: 10
+Sitemap: https://swietymichal.github.io/sitemap.xml
 
 User-agent: *
 Allow: /
-
 Disallow: /profile
 Disallow: /login
 Disallow: /reset-password
-Sitemap: https://swietymichal.github.io/sitemap.xml
